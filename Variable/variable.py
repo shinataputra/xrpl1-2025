@@ -10,6 +10,5 @@ pkn = 80
 ratarata = (mat + agama + pkn) / 3
 
 
-print("Nama saya adalah " + namadepan +" "+namabelakang + "dan saya tinggal di " + alamat + " dan hobisaya adalah " + hobi)
-
-#  lanjutkan dengan varibale yang belum digunakan
+print ("Nama saya adalah " + namadepan)
+print (f"Nlai rata-rata saya adalah {ratarata}")
